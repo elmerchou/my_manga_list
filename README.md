@@ -1,4 +1,4 @@
-# meal_app
+# Manga List Practice
 
 A new Flutter project.
 
