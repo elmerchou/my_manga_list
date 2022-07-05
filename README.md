@@ -1,4 +1,6 @@
 # Manga List App Practice
+![Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=React&style=for-the-badge)
+
 
 一個簡單的side project，主要是拿來練習Flutter用的，APP中使用的圖片、資料都來自[蘇蘇收藏](https://suesucollection.onrender.com/)，裡面都是好文章，大推。
 
