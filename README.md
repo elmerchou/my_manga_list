@@ -8,22 +8,22 @@ A simple side project, mainly to practice Flutter. The pictures and information 
 
 ## Functions
 
-### 漫畫分類一覽 Manga Category List
+### 漫畫分類一覽<br>Manga Category List
 <img src="https://i.imgur.com/z61jQ2B.png" width=50%>
 
-### 應用抽屜可進行設定 App drawer can switch to setting page
+### 應用抽屜可進行設定<br>App drawer can switch to setting page
 <img src="https://i.imgur.com/a7jBHw0.png" width=50%>
 
-### 設定頁面可依據已完結、全年齡進行漫畫過濾 Seting page to filter the manga according to the finished and annual age
+### 設定頁面可依據已完結、全年齡進行漫畫過濾<br>Seting page to filter the manga according to the finished and annual age
 <img src="https://i.imgur.com/Zh6wiwX.png" width=50%>
 
-### 點擊進漫畫分類即可閱覽該類型漫畫 Tap the manga category to view the manga in that genre
+### 點擊進漫畫分類即可閱覽該類型漫畫<br>Tap the manga category to view the manga in that genre
 <img src="https://i.imgur.com/WMVS54o.jpg" width=50%>
 
-### 點擊進任一漫畫則可閱覽更多資訊 Click into any manga to see more information
+### 點擊進任一漫畫則可閱覽更多資訊<br>Click into any manga to see more information
 <img src="https://i.imgur.com/4fjbLOA.png" width=50%>
 
-### 按下漫畫頁面右下角的星星按鈕還能將其收藏 Press the star button at the bottom right corner of the comic page and you can also save it
+### 按下漫畫頁面右下角的星星按鈕還能將其收藏<br>Press the star button at the bottom right corner of the comic page and you can also save it
 <img src="https://i.imgur.com/Dt9xYWQ.png" width=50%>
 
 ## Author
